@@ -35,12 +35,13 @@ img{
     height: 200px;
 }
 .categoria-videos{
-    display:flex;overflow-x: auto;
+    display:flex;
+    overflow-x: auto;
     gap: 10px;
 }
 .categoria{
  padding-left: 20px;
- padding-right: 2opx;
+ padding-right: 20px;
 }
 
 
